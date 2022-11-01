@@ -1,0 +1,15 @@
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-12_Generic_Methods\OOP-12_Generic_Methods\bin\Debug\net6.0\OOP-12_Generic_Methods.exe
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-12_Generic_Methods\OOP-12_Generic_Methods\bin\Debug\net6.0\OOP-12_Generic_Methods.deps.json
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-12_Generic_Methods\OOP-12_Generic_Methods\bin\Debug\net6.0\OOP-12_Generic_Methods.runtimeconfig.json
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-12_Generic_Methods\OOP-12_Generic_Methods\bin\Debug\net6.0\OOP-12_Generic_Methods.dll
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-12_Generic_Methods\OOP-12_Generic_Methods\bin\Debug\net6.0\OOP-12_Generic_Methods.pdb
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-12_Generic_Methods\OOP-12_Generic_Methods\obj\Debug\net6.0\OOP-12_Generic_Methods.csproj.AssemblyReference.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-12_Generic_Methods\OOP-12_Generic_Methods\obj\Debug\net6.0\OOP-12_Generic_Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-12_Generic_Methods\OOP-12_Generic_Methods\obj\Debug\net6.0\OOP-12_Generic_Methods.AssemblyInfoInputs.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-12_Generic_Methods\OOP-12_Generic_Methods\obj\Debug\net6.0\OOP-12_Generic_Methods.AssemblyInfo.cs
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-12_Generic_Methods\OOP-12_Generic_Methods\obj\Debug\net6.0\OOP-12_Generic_Methods.csproj.CoreCompileInputs.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-12_Generic_Methods\OOP-12_Generic_Methods\obj\Debug\net6.0\OOP-12_Generic_Methods.dll
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-12_Generic_Methods\OOP-12_Generic_Methods\obj\Debug\net6.0\refint\OOP-12_Generic_Methods.dll
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-12_Generic_Methods\OOP-12_Generic_Methods\obj\Debug\net6.0\OOP-12_Generic_Methods.pdb
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-12_Generic_Methods\OOP-12_Generic_Methods\obj\Debug\net6.0\OOP-12_Generic_Methods.genruntimeconfig.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-12_Generic_Methods\OOP-12_Generic_Methods\obj\Debug\net6.0\ref\OOP-12_Generic_Methods.dll
